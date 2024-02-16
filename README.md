@@ -14,7 +14,12 @@ Our models are available on huggingface hub.
 2. [MT-Ranker-Large](https://huggingface.co/ibraheemmoosa/mt-ranker-large)
 3. [MT-Ranker-XXL](https://huggingface.co/ibraheemmoosa/mt-ranker-xxl)
 
-Use the `load_model_from_huggingface_hub.py` to load the models.
+# Usage
+Use the `load_model_from_huggingface_hub.py` to load the models. The models take in a source sentence and pair of translations in the following format.
+
+`Source: Le chat est sur la tapis. Translation 0: The cat is on the bed. Translation 1: The cat is on the carpet.`
+
+The model performs a binary classification and returns probability logits for the two translations.
 
 # TODO
 - [x] Upload models to Huggingface Hub.
