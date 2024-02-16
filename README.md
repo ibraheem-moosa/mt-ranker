@@ -14,6 +14,8 @@ Our models are available on huggingface hub.
 2. [MT-Ranker-Large](https://huggingface.co/ibraheemmoosa/mt-ranker-large)
 3. [MT-Ranker-XXL](https://huggingface.co/ibraheemmoosa/mt-ranker-xxl)
 
+Use the `load_model_from_huggingface_hub.py` to load the models.
+
 # TODO
 - [x] Upload models to Huggingface Hub.
 - [x] Add model loading code to GitHub.
