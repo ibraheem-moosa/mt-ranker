@@ -1,5 +1,5 @@
 # MT-Ranker
-This is the repository for the ICLR'24 Spotlight paper [MT-Ranker: Reference-free machine translation evaluation by inter-system ranking](https://arxiv.org/abs/2401.17099).
+This is the repository for the ICLR'24 Spotlight paper [MT-Ranker: Reference-free machine translation evaluation by inter-system ranking]([https://arxiv.org/abs/2401.17099](https://openreview.net/forum?id=Rry1SeSOQL).
 
 # Background
 
