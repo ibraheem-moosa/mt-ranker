@@ -33,8 +33,8 @@ Please cite our work if you find it helpful.
 
 ```
 @inproceedings{
-moosa2024comparator,
-title={{COMPARATOR}: Reference-free machine translation evaluation by inter-system comparison},
+Moosa2024MTRankerRM,
+title={MT-Ranker: Reference-free machine translation evaluation by inter-system ranking},
 author={Ibraheem Muhammad Moosa and Rui Zhang and Wenpeng Yin},
 booktitle={The Twelfth International Conference on Learning Representations},
 year={2024},
